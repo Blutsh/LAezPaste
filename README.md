@@ -3,6 +3,10 @@
 Firefox extension that adds copy buttons to Azure Log Analytics results for easy sharing in Teams, Outlook, and other applications.
 
 
+https://github.com/user-attachments/assets/8ea2f747-4a30-4348-b5db-4863876c250e
+
+
+
 ## Features
 
 - Adds **two buttons** next to "Add bookmark" in Log Analytics results toolbar
